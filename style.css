@@ -199,3 +199,11 @@ dimension thingy ueghhhh -------------------------------------------------
 #end {
   background-image: url("assets/end.png");
 }/*# sourceMappingURL=style.css.map */
+
+footer {
+  background-color: #000000;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-family: "Pixelify Sans", sans-serif;
+}
